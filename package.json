@@ -1,0 +1,23 @@
+{
+  "name": "redux-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.msjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakamura3/redux-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakamura3/redux-1/issues"
+  },
+  "homepage": "https://github.com/nakamura3/redux-1#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "redux": "^4.2.1"
+  }
+}
